@@ -1,0 +1,11 @@
+-Variables : son asignaciones a palabras;
+
+-Strings : es cualquier palabra que quieras guardar como información;
+
+-Funciones ( argumentos, return) : son asignaciones para crear mecanismos de respuesta;
+ retornan argumentos que son palabras que tu quieras que te dé de todas maneras;
+ o un return si quieres una respuesta específica para una condicion que tu quieras dar;
+
+-Declaraciones if : el if es un return que haces si la funcion no cumple la condición;
+
+-Valores booleanos ( true, false ) : son condiciones, si da cualquier de los dos se aplica un return en especifico;
