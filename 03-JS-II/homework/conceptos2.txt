@@ -1,0 +1,2 @@
+for : es una configuracion que me permite hacer varias operacion en lugar de hacerlas una por una.
+&&, ||, ! : son signos que me permiten saber si es falso o verdadero algo.
