@@ -216,9 +216,9 @@ function breakStatement(numero) {
   //Pista: usá el statement 'break'
   // Tu código:
   newnum = [];
-  let i = 0
+  let i = 0;
   for( i = 0; i < 10; i++){
-    numero = numero + 2
+    numero = numero + 2;
     if( numero === i)
       break; 
       else {
@@ -227,8 +227,8 @@ function breakStatement(numero) {
     }
     if( i < 10){
       return "Se interrumpió la ejecución";
-    }
-    return newnum
+    } else{
+    return newnum;}
     
   }
 
