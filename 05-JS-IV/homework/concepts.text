@@ -1,0 +1,7 @@
+objects : son contenedores de igualdades;
+properties: pueden contener varios elementos o ser iguales a uno solo;
+methods: Es para retornar valores segun las condiciones que uno les dé;
+bucle for...in : Es para acceder a los valores de los elementos del objeto;
+Notación de puntos vs notación de corchetes : El punto requiere citar exactamente el nombre;
+de la propiedad, en cambio el corchete puede admitir una variable que sea equitativa;
+al nombre de la propiedad.
