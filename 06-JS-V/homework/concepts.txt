@@ -1,0 +1,2 @@
+prototype : es una característica guardada dentro del sistema que no se puede ver a simple vista sino es invocándola.
+constructors : Es un molde de características que nos permiten crear objetos con estas mismas características.
